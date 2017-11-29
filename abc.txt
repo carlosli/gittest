@@ -25,3 +25,5 @@ rebase test 4
 1212121212
 
 branchtest
+
+branchtest2

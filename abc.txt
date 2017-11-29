@@ -16,3 +16,6 @@ rebase test 1
 11111111111110
 
 rebase test 2
+
+rebase test 3
+
